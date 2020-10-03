@@ -7,7 +7,7 @@
 
     <p>My name is {{ $page->owner->name }}</p>
 
-    <p>Hellow world!</p>
+    <p>Hello world!</p>
 
     <h2>Links:</h2>
 
